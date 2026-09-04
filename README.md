@@ -61,7 +61,7 @@ This is an open source personal project made for myself. There is a 99.99% chanc
 
 ## Will this ever become a service?:
 NO.
-Long answer, the previous category mentions about how its very incapable of being universal. It is not made to do so. Turning this into a service is not planned.
+Long answer, the previous category mentions about how its very incapable of being universal. It is not made to do so. Turning this into a service is not planned. And community modifications/suggestions will be closed until further mention. If you actually somehow manage to make Broseidon work on your system, I'd be enlightened.
 
 ## This is not industry standard:
 Obviously, because this server only has integrated graphics, I cannot run GPU specific workloads, hence, I must resort to using CPU fallbacks of the workloads. The objective is learning not keeping. After years, I realized that the best server wont walk up to me, so now I've stepped forward myself to make the best out of what server I have.
