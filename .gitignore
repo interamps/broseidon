@@ -1,3 +1,17 @@
-# Main
+# Environments & Credentials
 .env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Local Directories
+archive/
+llama/
+model/
+
+# System / OS Files
 .directory
+
+# Logs & Notes
+devlog.md
