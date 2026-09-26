@@ -1,17 +1,12 @@
-# Environments & Credentials
+# Environment & Confidential Sources
 .env
+.env.*
+*.env
+*.key
+*.pem
+secrets/
 
 # Python Cache
 __pycache__/
 *.pyc
-
-# Local Directories
-archive/
-llama/
-model/
-
-# System / OS Files
-.directory
-
-# Logs & Notes
-devlog.md
+*.pyo
