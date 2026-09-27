@@ -12,3 +12,6 @@ __pycache__/
 # To explicitly keep the empty models folder tracked in Git (optional)
 # create a .gitkeep file inside backend/models/ and add the rule below:
 !backend/models/.gitkeep
+
+# Personal
+sih.md
