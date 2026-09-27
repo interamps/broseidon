@@ -3,6 +3,9 @@
 
 **NOTE:** Work in Progress
 
+**If you want to analyse the anatomy of the project, click here:**
+[Project Anatomy](anatomy.md)
+
 ## Extended description of capabilities:
 Broseidon is created to manage my homelab. It could perform tasks on the simple scale like an online storage server, a calender, etc. I plan on also making it self-sustaining using AI, and using it as a planner. Normal planners just dont feel level with me so I default back to using AI, so lets turn it into a project.                 |
 

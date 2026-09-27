@@ -1,12 +1,14 @@
-# Environment & Confidential Sources
+# Python cache directories and files
+__pycache__/
+*.py[cod]
+
+# Environment configuration files
 .env
 .env.*
-*.env
-*.key
-*.pem
-secrets/
 
-# Python Cache
-__pycache__/
-*.pyc
-*.pyo
+# Large model binaries
+*.gguf
+
+# To explicitly keep the empty models folder tracked in Git (optional)
+# create a .gitkeep file inside backend/models/ and add the rule below:
+!backend/models/.gitkeep
