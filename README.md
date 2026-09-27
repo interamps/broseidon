@@ -2,6 +2,7 @@
 *This file also includes FAQs (frequently asked to myself)*
 
 **NOTE:** Work in Progress
+`llama serve --model Qwen3.5-9B-Q4_K_M.gguf --n-gpu-layers auto --ctx-size 4096 --batch-size 128 --port 8080`
 
 **If you want to analyse the anatomy of the project, click here:**
 [Project Anatomy](anatomy.md)

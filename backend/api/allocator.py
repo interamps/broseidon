@@ -1,1 +1,3 @@
-#This is a placeholder, function is not yet prepared
+def allocate():
+    from . import local
+    print(local.call("hello"))
